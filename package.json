@@ -1,0 +1,18 @@
+{
+  "name": "es-modules-insights",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/invalidtoken/ES-Modules-Insights.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/invalidtoken/ES-Modules-Insights/issues"
+  },
+  "homepage": "https://github.com/invalidtoken/ES-Modules-Insights"
+}
