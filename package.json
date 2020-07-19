@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "webpack": "webpack"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/invalidtoken/ES-Modules-Insights.git"
@@ -14,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/invalidtoken/ES-Modules-Insights/issues"
   },
-  "homepage": "https://github.com/invalidtoken/ES-Modules-Insights"
+  "homepage": "https://github.com/invalidtoken/ES-Modules-Insights",
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12"
+  }
 }
